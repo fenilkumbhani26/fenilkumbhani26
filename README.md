@@ -5,7 +5,7 @@ Hey there! I'm **Fenil**, a Backend Developer with **2+ years of experience** in
 
 ## 💻 Tech Stack & Skills
 
-### **Backend Development**T
+### **Backend Development**
 - **Languages:** JavaScript, TypeScript (Intermediate)
 - **Frameworks & Libraries:** Node.js, Express.js
 - **Databases:** MongoDB, DynamoDB, MySQL, Airtable
