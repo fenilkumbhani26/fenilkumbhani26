@@ -14,10 +14,12 @@ I am currently working as a full-time developer and also open for **freelance pr
 - **Authentication & Security:** JWT, Role-based Authentication
 - **Real-time Communication:** Socket.io
 - **API Development:** REST APIs, Postman
+- **Communication & Scheduling APIs:** Twilio (SMS, Calls, OTP), Slack, Calendly, Zoom
 
 ### **Cloud & DevOps**
 - **Cloud Providers:** AWS (Lambda, ECS, ECR, S3, Amplify), DigitalOcean (Droplet & App)
 - **Containerization:** Docker
+- **CI/CD:** GitHub Actions
 - **Version Control:** Git, GitHub
 
 ### **Frontend (Intermediate Skills)**
@@ -25,7 +27,7 @@ I am currently working as a full-time developer and also open for **freelance pr
 
 ## 🔥 Featured Projects
 
-🚧 **Currently working on building some amazing projects!** 🚀
+🚧 **Currently working on building some amazing projects!** 🚀  
 🔹 Stay tuned for updates. Will add my best work soon! 😃
 
 ## 🛠️ Services I Offer (Freelance Work)
@@ -33,7 +35,10 @@ I am currently working as a full-time developer and also open for **freelance pr
 ✅ Database Design & Optimization (MongoDB, MySQL, DynamoDB)  
 ✅ Cloud & DevOps (AWS, DigitalOcean, Docker)  
 ✅ API Development & Integration  
-✅ Real-time Web Applications (Socket.io, WebSockets)
+✅ Real-time Web Applications (Socket.io, WebSockets)  
+✅ CI/CD Pipeline Setup (GitHub Actions)  
+✅ Twilio Integration (SMS, Calls, OTP)  
+✅ Slack and Zoom Integrations  
 
 ## 📫 Contact Me
 📧 Email: fenilkumbhani26@gmail.com  
