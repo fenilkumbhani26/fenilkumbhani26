@@ -9,7 +9,7 @@ I am currently working as a full-time developer and also open for **freelance pr
 
 ### **Backend Development**
 - **Languages:** JavaScript, TypeScript (Intermediate)
-- **Frameworks & Libraries:** Node.js, Express.js
+- **Frameworks & Libraries:** Node.js, Express.js, Mongoose
 - **Databases:** MongoDB, DynamoDB, MySQL, Airtable
 - **Authentication & Security:** JWT, Role-based Authentication
 - **Real-time Communication:** Socket.io
@@ -32,7 +32,7 @@ I am currently working as a full-time developer and also open for **freelance pr
 
 ## 🛠️ Services I Offer (Freelance Work)
 ✅ Backend Development (Node.js, Express.js, REST API, Authentication)  
-✅ Database Design & Optimization (MongoDB, MySQL, DynamoDB)  
+✅ Database Design & Optimization (MongoDB, Mongoose MySQL, DynamoDB)  
 ✅ Cloud & DevOps (AWS, DigitalOcean, Docker)  
 ✅ API Development & Integration  
 ✅ Real-time Web Applications (Socket.io, WebSockets)  
