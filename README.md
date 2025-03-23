@@ -1,7 +1,9 @@
 # 🚀 Fenil's Backend Developer Portfolio
 
 ## 👋 About Me
-Hey there! I'm **Fenil**, a Backend Developer with **2+ years of experience** in building scalable and high-performance applications. I specialize in **Node.js, Express.js, MongoDB, MySQL, AWS, Docker, and more!** I am currently working as a full-time developer and also open for **freelance projects**.
+Hey there! I'm **Fenil**, a Backend Developer with **2+ years of experience** in building scalable and high-performance applications.  
+I hold a **Bachelor's degree in Computer Applications (BCA)** and specialize in **Node.js, Express.js, MongoDB, MySQL, AWS, Docker, and more!**  
+I am currently working as a full-time developer and also open for **freelance projects**.
 
 ## 💻 Tech Stack & Skills
 
